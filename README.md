@@ -1,4 +1,4 @@
-# fix-kali-gpg
+# Q-fix-kali
 
 🔐 A simple Bash tool to fix expired GPG key issues with the Kali Linux repository on Debian/Ubuntu-based systems.
 
@@ -19,7 +19,7 @@
 ## 🚀 Usage
 
 ```bash
-git clone https://github.com/QaisCyber/fix-kali-gpg.git
-cd fix-kali-gpg/scripts
-chmod +x fix-kali-repo.sh
-./fix-kali-repo.sh
+git clone https://github.com/QaisCyber/Q-fix-kali.git
+cd Q-fix-kali
+chmod +x Qfix-kali-repo.sh
+./Qfix-kali-repo.sh
